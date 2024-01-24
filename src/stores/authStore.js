@@ -66,6 +66,7 @@ const authStore = create((set) => ({
     },
 
     signup: async () => {
+        try {
         const { signupForm} = authStore.getState();
 
         const res = await axios.post("/signup", (signupForm), { 
@@ -82,6 +83,9 @@ const authStore = create((set) => ({
         })
 
         console.log(res);
+        }    catch {
+            window.location.replace("/login");
+        }
     },
 
     logout: async () => {
