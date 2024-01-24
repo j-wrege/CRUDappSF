@@ -26,5 +26,5 @@ Copy the Github file called "src" onto your computer; this is the entire fronten
 
 # YouTube Video
 Application Walkthrough w/ Rubric Guidance 
-[(link here)](https://www.youtube.com/watch?v=_icBhc0hWNY)https://www.youtube.com/watch?v=_icBhc0hWNY
+https://www.youtube.com/watch?v=_icBhc0hWNY
 I apologize for the lack of voiceover. I currently have no microphone audio ability. 
